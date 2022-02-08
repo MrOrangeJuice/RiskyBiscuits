@@ -531,7 +531,16 @@ PlayerSettings:
   webGLCompressionFormat: 1
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    1: riskofrain2;thunderkit
+    7: riskofrain2;thunderkit
+    13: riskofrain2;thunderkit
+    19: riskofrain2;thunderkit
+    21: riskofrain2;thunderkit
+    25: riskofrain2;thunderkit
+    26: riskofrain2;thunderkit
+    27: riskofrain2;thunderkit
+    28: riskofrain2;thunderkit
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
