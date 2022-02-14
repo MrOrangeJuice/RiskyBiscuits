@@ -532,15 +532,15 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   scriptingDefineSymbols:
-    1: riskofrain2;thunderkit
-    7: riskofrain2;thunderkit
-    13: riskofrain2;thunderkit
-    19: riskofrain2;thunderkit
-    21: riskofrain2;thunderkit
-    25: riskofrain2;thunderkit
-    26: riskofrain2;thunderkit
-    27: riskofrain2;thunderkit
-    28: riskofrain2;thunderkit
+    1: riskofrain2;thunderkit;riskofthunder-ror2editorkit;bbepis-bepinexpack;twiner-rainofstages
+    7: riskofrain2;thunderkit;riskofthunder-ror2editorkit;bbepis-bepinexpack;twiner-rainofstages
+    13: riskofrain2;thunderkit;riskofthunder-ror2editorkit;bbepis-bepinexpack;twiner-rainofstages
+    19: riskofrain2;thunderkit;riskofthunder-ror2editorkit;bbepis-bepinexpack;twiner-rainofstages
+    21: riskofrain2;thunderkit;riskofthunder-ror2editorkit;bbepis-bepinexpack;twiner-rainofstages
+    25: riskofrain2;thunderkit;riskofthunder-ror2editorkit;bbepis-bepinexpack;twiner-rainofstages
+    26: riskofrain2;thunderkit;riskofthunder-ror2editorkit;bbepis-bepinexpack;twiner-rainofstages
+    27: riskofrain2;thunderkit;riskofthunder-ror2editorkit;bbepis-bepinexpack;twiner-rainofstages
+    28: riskofrain2;thunderkit;riskofthunder-ror2editorkit;bbepis-bepinexpack;twiner-rainofstages
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
