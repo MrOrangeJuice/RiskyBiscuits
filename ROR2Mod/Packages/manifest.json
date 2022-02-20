@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.passivepicasso.thunderkit":"https://github.com/PassivePicasso/ThunderKit.git",
+    "com.passivepicasso.thunderkit": "https://github.com/PassivePicasso/ThunderKit.git#net35compatibility",
     "com.unity.ads": "2.0.8",
     "com.unity.analytics": "3.2.2",
     "com.unity.collab-proxy": "1.2.15",
@@ -40,8 +40,8 @@
   },
   "lock": {
     "com.passivepicasso.thunderkit": {
-      "revision": "HEAD",
-      "hash": "d509ca4f1349591441de54b42a81b53949329ad0"
+      "revision": "net35compatibility",
+      "hash": "79eef0a0d0f7b651a1509e1504e763a1cffa05b0"
     }
   }
 }
