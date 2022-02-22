@@ -13,12 +13,21 @@ MonoBehaviour:
   m_Name: ThunderKit Extensions
   m_EditorClassIdentifier: 
   Packages:
+<<<<<<< Updated upstream
   - {fileID: 114870825880497016}
   - {fileID: 114864682043534616}
   - {fileID: 114943329786227168}
   - {fileID: 114709905966594006}
   - {fileID: 114857183238364388}
   - {fileID: 114694777412420222}
+=======
+  - {fileID: 114081572562625176}
+  - {fileID: 114147018010561040}
+  - {fileID: 114159192818789132}
+  - {fileID: 114881090821629350}
+  - {fileID: 114164113649436266}
+  - {fileID: 114229265764357282}
+>>>>>>> Stashed changes
   Url: https://thunderkit.thunderstore.io
 --- !u!114 &114000266279167098
 MonoBehaviour:
@@ -132,7 +141,11 @@ MonoBehaviour:
   dependencyId: CommonAPI-DSPEditorKit-1.0.3
   group: {fileID: 0}
   dependencies: []
+<<<<<<< Updated upstream
 --- !u!114 &114010579875219140
+=======
+--- !u!114 &114010464895301082
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 9
   m_CorrespondingSourceObject: {fileID: 0}
@@ -142,11 +155,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+<<<<<<< Updated upstream
   m_Name: RoR2EditorKitTeam-RoR2EditorKit-0.2.3
   m_EditorClassIdentifier: 
   version: 0.2.3
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.2.3
   group: {fileID: 114857183238364388}
+=======
+  m_Name: RoR2EditorKitTeam-RoR2EditorKit-0.1.1
+  m_EditorClassIdentifier: 
+  version: 0.1.1
+  dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.1.1
+  group: {fileID: 114164113649436266}
+>>>>>>> Stashed changes
   dependencies: []
 --- !u!114 &114010724812907100
 MonoBehaviour:
@@ -1599,6 +1620,30 @@ MonoBehaviour:
   dependencyId: ThunderKit-UnityGameImporter-1.0.0
   group: {fileID: 0}
   dependencies: []
+--- !u!114 &114081572562625176
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8992d2da66df46a488eb7fb4d66fc814, type: 3}
+  m_Name: DSPEditorKit
+  m_EditorClassIdentifier: 
+  PackageName: DSPEditorKit
+  Author: CommonAPI
+  Description: DSPEditorKit is a toolkit built around developing mods for Dyson Sphere
+    Program
+  DependencyId: CommonAPI-DSPEditorKit
+  Tags: []
+  Source: {fileID: 11400000}
+  Versions:
+  - {fileID: 114705082156947774}
+  - {fileID: 114291184444758912}
+  - {fileID: 114993763352085952}
+  - {fileID: 114906021684825372}
 --- !u!114 &114081955837271810
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -1759,6 +1804,22 @@ MonoBehaviour:
   version: 0.0.1
   dependencyId: TeamMoonstorm-MoonstormSharedEditorUtils-0.0.1
   group: {fileID: 0}
+  dependencies: []
+--- !u!114 &114093181275166498
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: Twiner-UnityGameImporter-1.1.3
+  m_EditorClassIdentifier: 
+  version: 1.1.3
+  dependencyId: Twiner-UnityGameImporter-1.1.3
+  group: {fileID: 114881090821629350}
   dependencies: []
 --- !u!114 &114095116128433684
 MonoBehaviour:
@@ -2005,6 +2066,22 @@ MonoBehaviour:
   version: 1.1.2
   dependencyId: Twiner-UnityGameImporter-1.1.2
   group: {fileID: 0}
+  dependencies: []
+--- !u!114 &114112309789183944
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: Twiner-UnityGameImporter-1.0.5
+  m_EditorClassIdentifier: 
+  version: 1.0.5
+  dependencyId: Twiner-UnityGameImporter-1.0.5
+  group: {fileID: 114881090821629350}
   dependencies: []
 --- !u!114 &114112737894320456
 MonoBehaviour:
@@ -2412,6 +2489,36 @@ MonoBehaviour:
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.1.4
   group: {fileID: 0}
   dependencies: []
+--- !u!114 &114147018010561040
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8992d2da66df46a488eb7fb4d66fc814, type: 3}
+  m_Name: MoonstormSharedEditorUtils
+  m_EditorClassIdentifier: 
+  PackageName: MoonstormSharedEditorUtils
+  Author: TeamMoonstorm
+  Description: Editor Classes used by team members of TeamMoonstorm for Risk of Rain
+    2 Modding
+  DependencyId: TeamMoonstorm-MoonstormSharedEditorUtils
+  Tags:
+  - Risk of Rain 2
+  Source: {fileID: 11400000}
+  Versions:
+  - {fileID: 114668753616693094}
+  - {fileID: 114206884155653538}
+  - {fileID: 114840499316294340}
+  - {fileID: 114841216079983738}
+  - {fileID: 114458096821626486}
+  - {fileID: 114748079489718392}
+  - {fileID: 114245814232887730}
+  - {fileID: 114163996392765022}
+  - {fileID: 114489125063808304}
 --- !u!114 &114149209140486434
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -2588,6 +2695,28 @@ MonoBehaviour:
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.1.3
   group: {fileID: 0}
   dependencies: []
+--- !u!114 &114159192818789132
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8992d2da66df46a488eb7fb4d66fc814, type: 3}
+  m_Name: RoR2EditorKit
+  m_EditorClassIdentifier: 
+  PackageName: RoR2EditorKit
+  Author: RiskofThunder
+  Description: RoR2EditorKit is a toolkit built around developing mods for Risk of
+    Rain 2
+  DependencyId: RiskofThunder-RoR2EditorKit
+  Tags:
+  - Risk of Rain 2
+  Source: {fileID: 11400000}
+  Versions:
+  - {fileID: 114515168375033176}
 --- !u!114 &114161710260911136
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -2621,6 +2750,52 @@ MonoBehaviour:
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.2.4
   group: {fileID: 0}
   dependencies: []
+--- !u!114 &114163996392765022
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: TeamMoonstorm-MoonstormSharedEditorUtils-0.0.1
+  m_EditorClassIdentifier: 
+  version: 0.0.1
+  dependencyId: TeamMoonstorm-MoonstormSharedEditorUtils-0.0.1
+  group: {fileID: 114147018010561040}
+  dependencies: []
+--- !u!114 &114164113649436266
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8992d2da66df46a488eb7fb4d66fc814, type: 3}
+  m_Name: RoR2EditorKit
+  m_EditorClassIdentifier: 
+  PackageName: RoR2EditorKit
+  Author: RoR2EditorKitTeam
+  Description: RoR2EditorKit is a toolkit built around developing mods for Risk of
+    Rain 2
+  DependencyId: RoR2EditorKitTeam-RoR2EditorKit
+  Tags:
+  - Risk of Rain 2
+  Source: {fileID: 11400000}
+  Versions:
+  - {fileID: 114991064335130544}
+  - {fileID: 114464479044865388}
+  - {fileID: 114534098389912856}
+  - {fileID: 114675096935570498}
+  - {fileID: 114839476215560642}
+  - {fileID: 114278266587271332}
+  - {fileID: 114517002237049280}
+  - {fileID: 114010464895301082}
+  - {fileID: 114586430478101080}
 --- !u!114 &114164487258600836
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -2654,6 +2829,22 @@ MonoBehaviour:
   group: {fileID: 0}
   dependencies:
   - {fileID: 114692201804273568}
+--- !u!114 &114166335051239150
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: Twiner-UnityGameImporter-1.1.0
+  m_EditorClassIdentifier: 
+  version: 1.1.0
+  dependencyId: Twiner-UnityGameImporter-1.1.0
+  group: {fileID: 114881090821629350}
+  dependencies: []
 --- !u!114 &114166523285704058
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -3335,6 +3526,23 @@ MonoBehaviour:
   dependencyId: TeamMoonstorm-MoonstormSharedEditorUtils-0.0.0
   group: {fileID: 0}
   dependencies: []
+--- !u!114 &114206884155653538
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: TeamMoonstorm-MoonstormSharedEditorUtils-1.2.0
+  m_EditorClassIdentifier: 
+  version: 1.2.0
+  dependencyId: TeamMoonstorm-MoonstormSharedEditorUtils-1.2.0
+  group: {fileID: 114147018010561040}
+  dependencies:
+  - {fileID: 114991064335130544}
 --- !u!114 &114209473232640364
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -3431,7 +3639,11 @@ MonoBehaviour:
   dependencyId: Twiner-UnityGameImporter-1.1.1
   group: {fileID: 0}
   dependencies: []
+<<<<<<< Updated upstream
 --- !u!114 &114217844956986266
+=======
+--- !u!114 &114217547335699772
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 9
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3441,11 +3653,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+<<<<<<< Updated upstream
   m_Name: RoR2EditorKitTeam-RoR2EditorKit-0.2.2
   m_EditorClassIdentifier: 
   version: 0.2.2
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.2.2
   group: {fileID: 0}
+=======
+  m_Name: Twiner-UnityGameImporter-1.0.4
+  m_EditorClassIdentifier: 
+  version: 1.0.4
+  dependencyId: Twiner-UnityGameImporter-1.0.4
+  group: {fileID: 114881090821629350}
+>>>>>>> Stashed changes
   dependencies: []
 --- !u!114 &114220755140377776
 MonoBehaviour:
@@ -3559,6 +3779,28 @@ MonoBehaviour:
   dependencyId: TeamMoonstorm-MoonstormSharedEditorUtils-0.0.0
   group: {fileID: 0}
   dependencies: []
+--- !u!114 &114229265764357282
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8992d2da66df46a488eb7fb4d66fc814, type: 3}
+  m_Name: UnityGameImporter
+  m_EditorClassIdentifier: 
+  PackageName: UnityGameImporter
+  Author: ThunderKit
+  Description: Tool to import unity game assets into a ThunderKit configured project
+    for learning purposes
+  DependencyId: ThunderKit-UnityGameImporter
+  Tags: []
+  Source: {fileID: 11400000}
+  Versions:
+  - {fileID: 114959392065104362}
+  - {fileID: 114931858249171210}
 --- !u!114 &114232792608932468
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -3720,6 +3962,22 @@ MonoBehaviour:
   version: 0.2.1
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.2.1
   group: {fileID: 0}
+  dependencies: []
+--- !u!114 &114245814232887730
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: TeamMoonstorm-MoonstormSharedEditorUtils-0.1.0
+  m_EditorClassIdentifier: 
+  version: 0.1.0
+  dependencyId: TeamMoonstorm-MoonstormSharedEditorUtils-0.1.0
+  group: {fileID: 114147018010561040}
   dependencies: []
 --- !u!114 &114245873985000942
 MonoBehaviour:
@@ -4141,6 +4399,22 @@ MonoBehaviour:
   group: {fileID: 0}
   dependencies:
   - {fileID: 114709458250398546}
+--- !u!114 &114278266587271332
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: RoR2EditorKitTeam-RoR2EditorKit-0.1.4
+  m_EditorClassIdentifier: 
+  version: 0.1.4
+  dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.1.4
+  group: {fileID: 114164113649436266}
+  dependencies: []
 --- !u!114 &114278359243902270
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -4271,7 +4545,11 @@ MonoBehaviour:
   dependencyId: Twiner-UnityGameImporter-1.1.4
   group: {fileID: 0}
   dependencies: []
+<<<<<<< Updated upstream
 --- !u!114 &114292369200157822
+=======
+--- !u!114 &114291184444758912
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 9
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4281,12 +4559,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+<<<<<<< Updated upstream
   m_Name: Twiner-UnityGameImporter-1.0.4
   m_EditorClassIdentifier: 
   version: 1.0.4
   dependencyId: Twiner-UnityGameImporter-1.0.4
   group: {fileID: 0}
   dependencies: []
+=======
+  m_Name: CommonAPI-DSPEditorKit-1.0.2
+  m_EditorClassIdentifier: 
+  version: 1.0.2
+  dependencyId: CommonAPI-DSPEditorKit-1.0.2
+  group: {fileID: 114081572562625176}
+  dependencies:
+  - {fileID: 0}
+>>>>>>> Stashed changes
 --- !u!114 &114293047464764520
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -4318,6 +4606,7 @@ MonoBehaviour:
   version: 1.0.3
   dependencyId: Twiner-UnityGameImporter-1.0.3
   group: {fileID: 0}
+<<<<<<< Updated upstream
   dependencies: []
 --- !u!114 &114297015558672764
 MonoBehaviour:
@@ -4334,6 +4623,8 @@ MonoBehaviour:
   version: 1.0.3
   dependencyId: CommonAPI-DSPEditorKit-1.0.3
   group: {fileID: 0}
+=======
+>>>>>>> Stashed changes
   dependencies: []
 --- !u!114 &114297201297928848
 MonoBehaviour:
@@ -4816,6 +5107,7 @@ MonoBehaviour:
   version: 0.1.1
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.1.1
   group: {fileID: 0}
+<<<<<<< Updated upstream
   dependencies: []
 --- !u!114 &114334433013108124
 MonoBehaviour:
@@ -4832,6 +5124,8 @@ MonoBehaviour:
   version: 1.1.1
   dependencyId: Twiner-UnityGameImporter-1.1.1
   group: {fileID: 0}
+=======
+>>>>>>> Stashed changes
   dependencies: []
 --- !u!114 &114334590704451554
 MonoBehaviour:
@@ -6649,7 +6943,11 @@ MonoBehaviour:
   dependencyId: ThunderKit-UnityGameImporter-1.0.0
   group: {fileID: 0}
   dependencies: []
+<<<<<<< Updated upstream
 --- !u!114 &114457388474541946
+=======
+--- !u!114 &114458096821626486
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 9
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6659,11 +6957,35 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+<<<<<<< Updated upstream
   m_Name: Twiner-UnityGameImporter-1.1.0
   m_EditorClassIdentifier: 
   version: 1.1.0
   dependencyId: Twiner-UnityGameImporter-1.1.0
   group: {fileID: 114709905966594006}
+=======
+  m_Name: TeamMoonstorm-MoonstormSharedEditorUtils-1.1.0
+  m_EditorClassIdentifier: 
+  version: 1.1.0
+  dependencyId: TeamMoonstorm-MoonstormSharedEditorUtils-1.1.0
+  group: {fileID: 114147018010561040}
+  dependencies: []
+--- !u!114 &114460403648338782
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: Twiner-UnityGameImporter-1.1.4
+  m_EditorClassIdentifier: 
+  version: 1.1.4
+  dependencyId: Twiner-UnityGameImporter-1.1.4
+  group: {fileID: 114881090821629350}
+>>>>>>> Stashed changes
   dependencies: []
 --- !u!114 &114461813942211698
 MonoBehaviour:
@@ -6745,6 +7067,22 @@ MonoBehaviour:
   version: 1.0.0
   dependencyId: ThunderKit-UnityGameImporter-1.0.0
   group: {fileID: 0}
+  dependencies: []
+--- !u!114 &114464479044865388
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: RoR2EditorKitTeam-RoR2EditorKit-0.2.3
+  m_EditorClassIdentifier: 
+  version: 0.2.3
+  dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.2.3
+  group: {fileID: 114164113649436266}
   dependencies: []
 --- !u!114 &114464575169111002
 MonoBehaviour:
@@ -7038,7 +7376,11 @@ MonoBehaviour:
   dependencyId: Twiner-UnityGameImporter-1.1.0
   group: {fileID: 0}
   dependencies: []
+<<<<<<< Updated upstream
 --- !u!114 &114490476573504256
+=======
+--- !u!114 &114489125063808304
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 9
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7048,11 +7390,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+<<<<<<< Updated upstream
   m_Name: RoR2EditorKitTeam-RoR2EditorKit-0.2.3
   m_EditorClassIdentifier: 
   version: 0.2.3
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.2.3
   group: {fileID: 0}
+=======
+  m_Name: TeamMoonstorm-MoonstormSharedEditorUtils-0.0.0
+  m_EditorClassIdentifier: 
+  version: 0.0.0
+  dependencyId: TeamMoonstorm-MoonstormSharedEditorUtils-0.0.0
+  group: {fileID: 114147018010561040}
+>>>>>>> Stashed changes
   dependencies: []
 --- !u!114 &114492537312180968
 MonoBehaviour:
@@ -7475,6 +7825,22 @@ MonoBehaviour:
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.2.2
   group: {fileID: 0}
   dependencies: []
+--- !u!114 &114515168375033176
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: RiskofThunder-RoR2EditorKit-1.0.0
+  m_EditorClassIdentifier: 
+  version: 1.0.0
+  dependencyId: RiskofThunder-RoR2EditorKit-1.0.0
+  group: {fileID: 114159192818789132}
+  dependencies: []
 --- !u!114 &114515326522353416
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -7538,6 +7904,22 @@ MonoBehaviour:
   version: 0.1.3
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.1.3
   group: {fileID: 0}
+  dependencies: []
+--- !u!114 &114517002237049280
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: RoR2EditorKitTeam-RoR2EditorKit-0.1.3
+  m_EditorClassIdentifier: 
+  version: 0.1.3
+  dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.1.3
+  group: {fileID: 114164113649436266}
   dependencies: []
 --- !u!114 &114522410003607380
 MonoBehaviour:
@@ -7766,6 +8148,22 @@ MonoBehaviour:
   group: {fileID: 0}
   dependencies:
   - {fileID: 114617780720201076}
+--- !u!114 &114534098389912856
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: RoR2EditorKitTeam-RoR2EditorKit-0.2.2
+  m_EditorClassIdentifier: 
+  version: 0.2.2
+  dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.2.2
+  group: {fileID: 114164113649436266}
+  dependencies: []
 --- !u!114 &114534878792489710
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -7960,6 +8358,7 @@ MonoBehaviour:
   dependencyId: Twiner-UnityGameImporter-1.0.5
   group: {fileID: 0}
   dependencies: []
+<<<<<<< Updated upstream
 --- !u!114 &114556151169143644
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -7977,6 +8376,8 @@ MonoBehaviour:
   group: {fileID: 114864682043534616}
   dependencies:
   - {fileID: 114573612597136004}
+=======
+>>>>>>> Stashed changes
 --- !u!114 &114556383000628874
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -8025,7 +8426,11 @@ MonoBehaviour:
   dependencyId: Twiner-UnityGameImporter-1.0.5
   group: {fileID: 0}
   dependencies: []
+<<<<<<< Updated upstream
 --- !u!114 &114557557737887200
+=======
+--- !u!114 &114559434603066804
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 9
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8035,6 +8440,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+<<<<<<< Updated upstream
   m_Name: TeamMoonstorm-MoonstormSharedEditorUtils-1.3.0
   m_EditorClassIdentifier: 
   version: 1.3.0
@@ -8042,6 +8448,14 @@ MonoBehaviour:
   group: {fileID: 0}
   dependencies:
   - {fileID: 114464232023579618}
+=======
+  m_Name: Twiner-UnityGameImporter-1.1.5
+  m_EditorClassIdentifier: 
+  version: 1.1.5
+  dependencyId: Twiner-UnityGameImporter-1.1.5
+  group: {fileID: 114881090821629350}
+  dependencies: []
+>>>>>>> Stashed changes
 --- !u!114 &114559624383690636
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -8299,6 +8713,7 @@ MonoBehaviour:
   version: 1.1.5
   dependencyId: Twiner-UnityGameImporter-1.1.5
   group: {fileID: 0}
+<<<<<<< Updated upstream
   dependencies: []
 --- !u!114 &114573612597136004
 MonoBehaviour:
@@ -8331,6 +8746,8 @@ MonoBehaviour:
   version: 0.0.1
   dependencyId: TeamMoonstorm-MoonstormSharedEditorUtils-0.0.1
   group: {fileID: 114864682043534616}
+=======
+>>>>>>> Stashed changes
   dependencies: []
 --- !u!114 &114576727700557282
 MonoBehaviour:
@@ -8443,6 +8860,22 @@ MonoBehaviour:
   version: 1.0.0
   dependencyId: ThunderKit-UnityGameImporter-1.0.0
   group: {fileID: 0}
+  dependencies: []
+--- !u!114 &114586430478101080
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: RoR2EditorKitTeam-RoR2EditorKit-0.0.1
+  m_EditorClassIdentifier: 
+  version: 0.0.1
+  dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.0.1
+  group: {fileID: 114164113649436266}
   dependencies: []
 --- !u!114 &114586515936998598
 MonoBehaviour:
@@ -8572,6 +9005,7 @@ MonoBehaviour:
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.2.1
   group: {fileID: 114857183238364388}
   dependencies: []
+<<<<<<< Updated upstream
 --- !u!114 &114594575941017796
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -8588,6 +9022,8 @@ MonoBehaviour:
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.1.1
   group: {fileID: 0}
   dependencies: []
+=======
+>>>>>>> Stashed changes
 --- !u!114 &114596761203716196
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -8990,6 +9426,22 @@ MonoBehaviour:
   version: 0.1.0
   dependencyId: TeamMoonstorm-MoonstormSharedEditorUtils-0.1.0
   group: {fileID: 0}
+  dependencies: []
+--- !u!114 &114620806164468466
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: Twiner-UnityGameImporter-1.1.1
+  m_EditorClassIdentifier: 
+  version: 1.1.1
+  dependencyId: Twiner-UnityGameImporter-1.1.1
+  group: {fileID: 114881090821629350}
   dependencies: []
 --- !u!114 &114623366494958252
 MonoBehaviour:
@@ -9995,7 +10447,11 @@ MonoBehaviour:
   group: {fileID: 0}
   dependencies:
   - {fileID: 114015321043901532}
+<<<<<<< Updated upstream
 --- !u!114 &114669238375092000
+=======
+--- !u!114 &114668753616693094
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 9
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10005,6 +10461,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+<<<<<<< Updated upstream
   m_Name: TeamMoonstorm-MoonstormSharedEditorUtils-1.1.2
   m_EditorClassIdentifier: 
   version: 1.1.2
@@ -10012,6 +10469,15 @@ MonoBehaviour:
   group: {fileID: 114864682043534616}
   dependencies:
   - {fileID: 114605208451010328}
+=======
+  m_Name: TeamMoonstorm-MoonstormSharedEditorUtils-1.3.0
+  m_EditorClassIdentifier: 
+  version: 1.3.0
+  dependencyId: TeamMoonstorm-MoonstormSharedEditorUtils-1.3.0
+  group: {fileID: 114147018010561040}
+  dependencies:
+  - {fileID: 114515168375033176}
+>>>>>>> Stashed changes
 --- !u!114 &114670371665750684
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -10091,6 +10557,22 @@ MonoBehaviour:
   version: 1.0.1
   dependencyId: ThunderKit-UnityGameImporter-1.0.1
   group: {fileID: 0}
+  dependencies: []
+--- !u!114 &114675096935570498
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: RoR2EditorKitTeam-RoR2EditorKit-0.2.1
+  m_EditorClassIdentifier: 
+  version: 0.2.1
+  dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.2.1
+  group: {fileID: 114164113649436266}
   dependencies: []
 --- !u!114 &114675577903740844
 MonoBehaviour:
@@ -10386,6 +10868,22 @@ MonoBehaviour:
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.2.4
   group: {fileID: 0}
   dependencies: []
+--- !u!114 &114693000697011072
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: Twiner-UnityGameImporter-1.0.3
+  m_EditorClassIdentifier: 
+  version: 1.0.3
+  dependencyId: Twiner-UnityGameImporter-1.0.3
+  group: {fileID: 114881090821629350}
+  dependencies: []
 --- !u!114 &114693191999703844
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -10600,6 +11098,22 @@ MonoBehaviour:
   version: 0.2.0
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.2.0
   group: {fileID: 0}
+  dependencies: []
+--- !u!114 &114705082156947774
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: CommonAPI-DSPEditorKit-1.0.3
+  m_EditorClassIdentifier: 
+  version: 1.0.3
+  dependencyId: CommonAPI-DSPEditorKit-1.0.3
+  group: {fileID: 114081572562625176}
   dependencies: []
 --- !u!114 &114706588821817410
 MonoBehaviour:
@@ -11163,6 +11677,7 @@ MonoBehaviour:
   version: 1.0.4
   dependencyId: Twiner-UnityGameImporter-1.0.4
   group: {fileID: 0}
+<<<<<<< Updated upstream
   dependencies: []
 --- !u!114 &114741917232444422
 MonoBehaviour:
@@ -11179,6 +11694,8 @@ MonoBehaviour:
   version: 1.1.3
   dependencyId: Twiner-UnityGameImporter-1.1.3
   group: {fileID: 114709905966594006}
+=======
+>>>>>>> Stashed changes
   dependencies: []
 --- !u!114 &114745495102260058
 MonoBehaviour:
@@ -11212,6 +11729,39 @@ MonoBehaviour:
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.2.3
   group: {fileID: 0}
   dependencies: []
+--- !u!114 &114747865497501688
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: Twiner-UnityGameImporter-1.0.2
+  m_EditorClassIdentifier: 
+  version: 1.0.2
+  dependencyId: Twiner-UnityGameImporter-1.0.2
+  group: {fileID: 114881090821629350}
+  dependencies: []
+--- !u!114 &114748079489718392
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: TeamMoonstorm-MoonstormSharedEditorUtils-1.0.0
+  m_EditorClassIdentifier: 
+  version: 1.0.0
+  dependencyId: TeamMoonstorm-MoonstormSharedEditorUtils-1.0.0
+  group: {fileID: 114147018010561040}
+  dependencies:
+  - {fileID: 114517002237049280}
 --- !u!114 &114750663045846632
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -12461,6 +13011,22 @@ MonoBehaviour:
   group: {fileID: 0}
   dependencies:
   - {fileID: 114427486570044248}
+--- !u!114 &114839476215560642
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: RoR2EditorKitTeam-RoR2EditorKit-0.2.0
+  m_EditorClassIdentifier: 
+  version: 0.2.0
+  dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.2.0
+  group: {fileID: 114164113649436266}
+  dependencies: []
 --- !u!114 &114840372947407760
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -12477,6 +13043,23 @@ MonoBehaviour:
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.2.3
   group: {fileID: 0}
   dependencies: []
+--- !u!114 &114840499316294340
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: TeamMoonstorm-MoonstormSharedEditorUtils-1.1.2
+  m_EditorClassIdentifier: 
+  version: 1.1.2
+  dependencyId: TeamMoonstorm-MoonstormSharedEditorUtils-1.1.2
+  group: {fileID: 114147018010561040}
+  dependencies:
+  - {fileID: 114278266587271332}
 --- !u!114 &114840871642492006
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -12509,6 +13092,23 @@ MonoBehaviour:
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.0.1
   group: {fileID: 0}
   dependencies: []
+--- !u!114 &114841216079983738
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: TeamMoonstorm-MoonstormSharedEditorUtils-1.1.1
+  m_EditorClassIdentifier: 
+  version: 1.1.1
+  dependencyId: TeamMoonstorm-MoonstormSharedEditorUtils-1.1.1
+  group: {fileID: 114147018010561040}
+  dependencies:
+  - {fileID: 114278266587271332}
 --- !u!114 &114841653433075492
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -12798,6 +13398,7 @@ MonoBehaviour:
   group: {fileID: 0}
   dependencies: []
 --- !u!114 &114862078165945706
+<<<<<<< Updated upstream
 MonoBehaviour:
   m_ObjectHideFlags: 9
   m_CorrespondingSourceObject: {fileID: 0}
@@ -12814,6 +13415,8 @@ MonoBehaviour:
   group: {fileID: 0}
   dependencies: []
 --- !u!114 &114864682043534616
+=======
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 9
   m_CorrespondingSourceObject: {fileID: 0}
@@ -13045,6 +13648,36 @@ MonoBehaviour:
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.2.1
   group: {fileID: 0}
   dependencies: []
+--- !u!114 &114881090821629350
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8992d2da66df46a488eb7fb4d66fc814, type: 3}
+  m_Name: UnityGameImporter
+  m_EditorClassIdentifier: 
+  PackageName: UnityGameImporter
+  Author: Twiner
+  Description: Tool to import unity game assets into a ThunderKit configured project
+    for learning purposes
+  DependencyId: Twiner-UnityGameImporter
+  Tags: []
+  Source: {fileID: 11400000}
+  Versions:
+  - {fileID: 114559434603066804}
+  - {fileID: 114460403648338782}
+  - {fileID: 114093181275166498}
+  - {fileID: 114996632512476390}
+  - {fileID: 114620806164468466}
+  - {fileID: 114166335051239150}
+  - {fileID: 114112309789183944}
+  - {fileID: 114217547335699772}
+  - {fileID: 114693000697011072}
+  - {fileID: 114747865497501688}
 --- !u!114 &114881398076187280
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -13431,6 +14064,22 @@ MonoBehaviour:
   version: 1.0.2
   dependencyId: Twiner-UnityGameImporter-1.0.2
   group: {fileID: 0}
+  dependencies: []
+--- !u!114 &114906021684825372
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: CommonAPI-DSPEditorKit-1.0.0
+  m_EditorClassIdentifier: 
+  version: 1.0.0
+  dependencyId: CommonAPI-DSPEditorKit-1.0.0
+  group: {fileID: 114081572562625176}
   dependencies: []
 --- !u!114 &114906956511964478
 MonoBehaviour:
@@ -13870,6 +14519,22 @@ MonoBehaviour:
   dependencyId: Twiner-UnityGameImporter-1.1.4
   group: {fileID: 0}
   dependencies: []
+--- !u!114 &114931858249171210
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: ThunderKit-UnityGameImporter-1.0.0
+  m_EditorClassIdentifier: 
+  version: 1.0.0
+  dependencyId: ThunderKit-UnityGameImporter-1.0.0
+  group: {fileID: 114229265764357282}
+  dependencies: []
 --- !u!114 &114932154989639202
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -14246,6 +14911,22 @@ MonoBehaviour:
   version: 0.1.3
   dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.1.3
   group: {fileID: 0}
+  dependencies: []
+--- !u!114 &114959392065104362
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: ThunderKit-UnityGameImporter-1.0.1
+  m_EditorClassIdentifier: 
+  version: 1.0.1
+  dependencyId: ThunderKit-UnityGameImporter-1.0.1
+  group: {fileID: 114229265764357282}
   dependencies: []
 --- !u!114 &114959469566380790
 MonoBehaviour:
@@ -14747,6 +15428,22 @@ MonoBehaviour:
   dependencyId: TeamMoonstorm-MoonstormSharedEditorUtils-1.1.0
   group: {fileID: 0}
   dependencies: []
+--- !u!114 &114991064335130544
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: RoR2EditorKitTeam-RoR2EditorKit-0.2.4
+  m_EditorClassIdentifier: 
+  version: 0.2.4
+  dependencyId: RoR2EditorKitTeam-RoR2EditorKit-0.2.4
+  group: {fileID: 114164113649436266}
+  dependencies: []
 --- !u!114 &114991411409275900
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -14780,6 +15477,22 @@ MonoBehaviour:
   group: {fileID: 0}
   dependencies:
   - {fileID: 0}
+--- !u!114 &114993763352085952
+MonoBehaviour:
+  m_ObjectHideFlags: 9
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+  m_Name: CommonAPI-DSPEditorKit-1.0.1
+  m_EditorClassIdentifier: 
+  version: 1.0.1
+  dependencyId: CommonAPI-DSPEditorKit-1.0.1
+  group: {fileID: 114081572562625176}
+  dependencies: []
 --- !u!114 &114994096933356558
 MonoBehaviour:
   m_ObjectHideFlags: 9
@@ -14845,7 +15558,11 @@ MonoBehaviour:
   group: {fileID: 0}
   dependencies:
   - {fileID: 114414296254538542}
+<<<<<<< Updated upstream
 --- !u!114 &114996891771816596
+=======
+--- !u!114 &114996632512476390
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 9
   m_CorrespondingSourceObject: {fileID: 0}
@@ -14855,11 +15572,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5a0a728491a95ad42a7ff3ee6e35e430, type: 3}
+<<<<<<< Updated upstream
   m_Name: CommonAPI-DSPEditorKit-1.0.1
   m_EditorClassIdentifier: 
   version: 1.0.1
   dependencyId: CommonAPI-DSPEditorKit-1.0.1
   group: {fileID: 0}
+=======
+  m_Name: Twiner-UnityGameImporter-1.1.2
+  m_EditorClassIdentifier: 
+  version: 1.1.2
+  dependencyId: Twiner-UnityGameImporter-1.1.2
+  group: {fileID: 114881090821629350}
+>>>>>>> Stashed changes
   dependencies: []
 --- !u!114 &114998334985355352
 MonoBehaviour:
